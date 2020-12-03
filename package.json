@@ -8,6 +8,10 @@
     "jeefo",
     "je3f0o"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:je3f0o/gmail_watcher.git"
+  },
   "author": {
     "name": "je3f0o",
     "email": "je3f0o@gmail.com, jeefo@teachmecoding.club"
