@@ -1,0 +1,21 @@
+{
+  "name": "gmail_watcher",
+  "version": "0.0.1",
+  "description": "Simple gmail watching library for my youtube tutorials",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "jeefo",
+    "je3f0o"
+  ],
+  "author": {
+    "name": "je3f0o",
+    "email": "je3f0o@gmail.com, jeefo@teachmecoding.club"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@jeefo/utils": "0.0.11",
+    "googleapis": "^65.0.0"
+  },
+  "devDependencies": {}
+}
